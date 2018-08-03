@@ -1,2 +1,2 @@
 hello.
-let's learn git.
+let's learn git firstly.

@@ -1,2 +1,3 @@
 hello.
-let's learn git firstly.
+<<<<<<< HEAD
+let's learn git easily.
